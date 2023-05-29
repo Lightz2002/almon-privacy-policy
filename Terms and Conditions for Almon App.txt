@@ -1,0 +1,43 @@
+Terms and Conditions for Almon App
+
+Last Updated: 2023-05-09
+
+Please read these Terms and Conditions ("Terms") carefully before using the Almon App ("the App") operated by Almon ("we," "us," or "our"). By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use the App.
+
+    Acceptance of Terms
+    By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and any additional guidelines or rules applicable to specific features or services provided by the App. If you do not agree to these Terms, you may not use the App.
+
+    User Accounts
+    2.1 Registration
+    To access certain features of the App, you may be required to create a user account. You agree to provide accurate, complete, and up-to-date information during the registration process. You are solely responsible for maintaining the confidentiality of your account information and are fully responsible for all activities that occur under your account. Notify us immediately of any unauthorized use of your account or any other breach of security.
+
+2.2 Account Termination
+We reserve the right to suspend or terminate your account at any time and for any reason, including, but not limited to, a violation of these Terms or any applicable laws or regulations.
+
+    App Usage
+    3.1 License
+    Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, and revocable license to use the App for your personal, non-commercial use only. You agree not to reproduce, distribute, modify, create derivative works of, publicly display, or publicly perform the App or any portion thereof.
+
+3.2 Prohibited Actions
+You agree not to engage in any of the following prohibited actions while using the App:
+a) Violating any applicable laws or regulations;
+b) Interfering with or disrupting the functionality of the App or any servers or networks connected to the App;
+c) Modifying, adapting, translating, reverse engineering, decompiling, or disassembling the App or any portion thereof;
+d) Using any automated means, including bots, crawlers, or scrapers, to access or interact with the App;
+e) Uploading or transmitting any viruses, worms, malware, or other harmful code.
+
+    Content Ownership and Intellectual Property
+    4.1 Content Ownership
+    You retain all ownership rights to the content you submit or make available through the App. By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, distribute, and display such content for the purpose of providing and promoting the App.
+
+4.2 Intellectual Property
+The App, including but not limited to its design, graphics, trademarks, logos, and other materials, are the intellectual property of Almon or its licensors. You may not use, reproduce, distribute, or display any intellectual property without the prior written consent of the respective owner.
+
+    Privacy
+    We respect your privacy and are committed to protecting your personal information. Please review our Privacy Policy [include link to Privacy Policy] to understand how we collect, use, and disclose your information.
+
+    Disclaimer of Warranty
+    THE APP IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. WE DISCLAIM ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
+
+    Limitation of Liability
+    IN NO EVENT SHALL Almon BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT
